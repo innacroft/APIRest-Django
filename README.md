@@ -12,7 +12,6 @@ Simple APIRest on Django
 - Django 
 
 ------------
-
 #### Author
 Innacroft
 [Link to My portfolio](https://innacroft.github.io/portfolio/)<br>
